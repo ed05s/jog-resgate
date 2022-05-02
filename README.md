@@ -1,1 +1,1 @@
-# jog-resgate
+# jogo-resgate
